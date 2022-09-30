@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Halaman Informasi Sekolah</title>
+</head>
+<body>
+<center>
+<h1>Ruangan</h1>
+<table width="50%" border="1" cellspacing="0">
+	<tr></tr>
+	<td align="center">Lab</td>
+	<td align="center">5</td>
+	</tr>
+	<tr>
+	<td align="center">Workshop</td>
+	<td align="center">1</td>
+	</tr>
+	<tr>
+	<td align="center">Perpustakaan</td>
+	<td align="center">1</td>
+	</tr>
+	<tr>
+	<td align="center">Toilet</td>
+	<td align="center">2</td>
+	</tr>
+	<tr>
+	<td align="center">Kelas</td>
+	<td align="center">10</td>
+	</tr>
+	</center>
+	<a href="website"><font color="blue"><u>Kembali Ke Halaman Utama</u></font></a href>
+	<tr>
+	</tr>
+	</table>
+	</body>
+	</html>
+	
